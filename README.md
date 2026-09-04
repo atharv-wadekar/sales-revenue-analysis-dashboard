@@ -170,8 +170,3 @@ Example measures used in the dashboard include:
 Total Revenue = SUM(Sales[Revenue])
 
 ---
-#  Dashboard Screenshot
-
-![Sales & Revenue Analysis Dashboard](https://github.com/atharv-wadekar/sales-revenue-analysis-dashboard/blob/main/sales-revenue-analysis-dashboard%20.png)
-Example: ![Dashboard Preview]<img width="667" height="7" alt="image" src="https://github.com/user-attachments/assets/96bc4505-b46a-413b-80b7-b32f5b34115e" />
-
