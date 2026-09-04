@@ -168,3 +168,9 @@ Example measures used in the dashboard include:
 
 ```DAX
 Total Revenue = SUM(Sales[Revenue])
+
+---
+# Screenshot
+show how the dashboard looks like - https://github.com/atharv-wadekar/sales-revenue-analysis-dashboard/blob/main/sales-revenue-analysis-dashboard%20.png
+
+
