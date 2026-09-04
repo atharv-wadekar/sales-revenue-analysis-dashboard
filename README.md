@@ -172,5 +172,5 @@ Total Revenue = SUM(Sales[Revenue])
 ---
 #  Dashboard Screenshot
 
-![Sales & Revenue Analysis Dashboard](Images/dashboard-preview.png)
+![Sales & Revenue Analysis Dashboard](https://github.com/atharv-wadekar/sales-revenue-analysis-dashboard/blob/main/sales-revenue-analysis-dashboard%20.png)
 
